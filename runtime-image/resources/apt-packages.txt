@@ -13,7 +13,7 @@ libcurl4-openssl-dev
 libffi-dev
 libjpeg-dev
 libmysqlclient-dev
-libpng12-dev
+libpng-dev
 libpq-dev
 libssl-dev
 libxml2-dev
@@ -22,7 +22,7 @@ swig
 zlib1g-dev
 # Needed by scipy/numpy
 gfortran
-libatlas-dev
+libatlas-base-dev
 libblas-dev
 libfreetype6-dev  
 liblapack-dev
